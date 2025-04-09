@@ -1,0 +1,23 @@
+{
+  "name": "fullstack-finance-tracker",
+  "version": "1.0.0",
+  "description": "A full-stack finance tracker application using Node.js and Vue 3.",
+  "main": "main.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "vue": "^3.0.0",
+    "vue-router": "^4.0.0",
+    "vuex": "^4.0.0",
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^4.5.0",
+    "@vue/compiler-sfc": "^3.0.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
